@@ -1,8 +1,9 @@
-Pyhton list interview answers
+# Python List Interview Answers
 
-Level : Basic
-•	Write a Python program to find the largest and smallest elements in a list.
-•	How would you remove duplicates from a list without using set()?
-•	Write a program to reverse a list without using built-in methods.
-•	Given two lists, write a program to merge them into a new list without duplicates.
-•	Write a Python program to check if a list is a palindrome.
+**Level: Basic**
+
+### 1. Write a Python program to find the largest and smallest elements in a list.
+### 2. How would you remove duplicates from a list without using set().
+### 3. Write a program to reverse a list without using built-in methods.
+### 4. Given two lists, write a program to merge them into a new list without duplicates.
+### 5. Write a Python program to check if a list is a palindrome.
