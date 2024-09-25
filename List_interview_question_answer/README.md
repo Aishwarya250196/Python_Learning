@@ -12,9 +12,6 @@
 ### 8. Write a Python program to find the intersection of two lists.
 ### 9. Write a program to concatenate two lists element-wise (e.g., [1, 2] and [3, 4] should become [1, 3, 2, 4]).
 ### 10. Write a Python program to remove every second element from a list.
-
-
-
 ### 11. Write a Python program to sum all the elements in a list.
 ### 12. Write a Python program to remove all occurrences of a specific value from a list.
 ### 13. How would you concatenate all the elements of a list into a single string with a separator?
